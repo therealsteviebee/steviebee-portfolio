@@ -1,6 +1,6 @@
 # Stevie Bee — IT Ops Automation & Platform Engineer
 
-I build durable automations that connect Slack, Jira Service Management, Confluence knowledge, Azure Functions, and Microsoft 365—turning messy support workflows into resilient systems.
+I build durable automations that connect Slack, Jira Service Management, Confluence knowledge, Azure Functions, and Microsoft 365, turning messy support workflows into resilient systems.
 
 ## What I’m great at
 - **ChatOps & Service Desk Automation:** Slack Events → Azure Functions → Jira Service Management → automated callbacks into the same Slack thread
