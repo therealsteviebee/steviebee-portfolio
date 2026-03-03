@@ -24,4 +24,4 @@ Azure Functions (Python), Azure Storage Queues/Tables, Slack API, Atlassian (JSM
 - [Project: Jira → Slack Thread Mirroring](projects/jira-slack-thread-mirroring.md)
 - [Project: SPO Domain Allowlist Automation](projects/spo-domain-allowlist-automation.md)
 - [Project: Intune Sync Monitoring](projects/intune-sync-monitoring.md)
-- [1‑Page Value Memo (Retention/Role Justification)](docs/value-memo.md)
+
