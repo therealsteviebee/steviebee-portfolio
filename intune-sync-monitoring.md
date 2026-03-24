@@ -16,5 +16,3 @@ PowerShell, Microsoft Graph API, automation scheduler (Azure Automation / Functi
 ## Outcomes (estimates — adjust with your numbers)
 - Reduced time-to-detect stale devices from **days → same-day**
 - Improved remediation throughput by producing prioritized device lists
-
-> **Internal/Interview Notes:** include a redacted output screenshot + threshold rules.
