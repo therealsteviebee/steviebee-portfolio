@@ -62,5 +62,3 @@ Slack Events API, Slack Web API, Azure Functions (Python), Azure Storage Queues/
 - Intent analytics dashboard (volume, deflection, escalation rate)
 - RBAC/guardrails per channel/team
 
-> **Internal/Interview Notes (keep private):**
-> Add exact intent list, redacted payload examples, and a screenshot of a Slack thread + linked JSM issue.
