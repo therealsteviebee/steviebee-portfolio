@@ -23,5 +23,5 @@ Azure Functions (Python), Azure Storage Queues/Tables, Slack API, Atlassian (JSM
 - [Project: Slack AI Service Desk Bot](https://github.com/therealsteviebee/steviebee-portfolio/blob/main/slack-ai-service-desk-bot.md)
 - [Project: Jira → Slack Thread Mirroring](https://github.com/therealsteviebee/steviebee-portfolio/blob/main/jira-slack-thread-mirroring.md)
 - [Project: SPO Domain Allowlist Automation](https://github.com/therealsteviebee/steviebee-portfolio/blob/main/spo-domain-allowlist-automation.md)
-- [Project: Intune Sync Monitoring](projects/intune-sync-monitoring.md)
+- [Project: Intune Sync Monitoring](https://github.com/therealsteviebee/steviebee-portfolio/blob/main/intune-sync-monitoring.md)
 
