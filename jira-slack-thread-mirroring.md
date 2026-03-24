@@ -34,5 +34,3 @@ Azure Functions (Python), Azure Storage Tables, Jira Automation + REST, Slack We
 ## Outcomes (estimates — adjust with your numbers)
 - Reduced “any update?” follow-ups by **15–30%**
 - Reduced context switching by **2–6 hours/week** across the team(s) using the workflow
-
-> **Internal/Interview Notes:** include a real sample callback payload and a redacted screenshot of the Slack thread update.
