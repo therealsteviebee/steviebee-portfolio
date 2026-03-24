@@ -34,5 +34,3 @@ Azure Functions, Azure Storage Tables/Queues, PowerShell/Azure CLI redeploy pipe
 ## Outcomes (estimates — adjust with your numbers)
 - Turnaround improved from **days → hours** for standard allowlist requests
 - 100% audit trail: request state, timestamps, and outcomes captured durably
-
-> **Internal/Interview Notes:** document approval logic + SPO allowlist mechanism (redacted) and add a runbook excerpt.
